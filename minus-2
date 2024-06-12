@@ -1,13 +1,12 @@
 <off>
-<down>
-<down>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -53,13 +52,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -105,13 +106,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -157,13 +160,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -209,13 +214,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -261,13 +268,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -313,13 +322,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -365,13 +376,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -417,13 +430,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -469,13 +484,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -521,13 +538,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -573,13 +592,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -625,13 +646,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -677,13 +700,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -729,13 +754,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -781,13 +808,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -833,13 +862,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -885,13 +916,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -937,13 +970,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -989,13 +1024,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1041,13 +1078,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1093,13 +1132,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1145,13 +1186,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1197,13 +1240,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1249,13 +1294,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1301,13 +1348,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1353,13 +1402,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1405,13 +1456,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1457,13 +1510,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1509,13 +1564,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1561,13 +1618,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1613,13 +1672,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1665,13 +1726,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1717,13 +1780,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1769,13 +1834,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1821,13 +1888,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1873,13 +1942,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1925,13 +1996,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -1977,13 +2050,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2029,13 +2104,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2081,13 +2158,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2133,13 +2212,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2185,13 +2266,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2237,13 +2320,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2289,13 +2374,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2341,13 +2428,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2393,13 +2482,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2445,13 +2536,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2497,13 +2590,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
@@ -2549,13 +2644,15 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
+<off>
+<-2>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
